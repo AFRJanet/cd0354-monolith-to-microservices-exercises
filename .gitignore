@@ -40,3 +40,4 @@ venv/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+/lesson-6-kubernetes-for-production/exercises/simple-express/.node_env_variables.bat
